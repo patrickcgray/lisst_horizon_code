@@ -22,4 +22,4 @@ hrzn_utils.py contains the code to process the LISST-Horizon raw data into calib
 All python code can be run on Docker and is likely to work on most scientific computing environments but an exactly a matching environment can be obtained by copying the CryoCloud Docker image: https://github.com/CryoInTheCloud/hub-image.
 
 # Data Access
-All data is included in this repository in the data directory except for the Tara ancillary data which can be accessed at [TBD ask Guillaume or link to Nature Comms paper].
+All data is included in this repository in the data directory except for the Tara ancillary data which can be accessed at https://preprints.opticaopen.org/s/6c2eec720ffe27913fff or https://github.com/patrickcgray/spatial_patchiness_tara/releases/tag/v1.0.
